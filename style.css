@@ -1,0 +1,24 @@
+#home{
+    background-color: antiquewhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+    text-align: center;
+}
+#information{
+    background: linear-gradient(#7d786b 0%, #bab7af 25%, #d6d0bf 50%, #f7efd7 75%, #f2eee1 100%);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+image{
+    width:100px;
+    height:150px;
+}
+#video{
+    background-color: blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+#dogvideo{
+    font-size: x-large;
+    padding:40px;
+}
